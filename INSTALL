@@ -1,0 +1,9 @@
+Building BitcoinSupreme
+
+See doc/readme-qt.rst for instructions on building BitcoinSupreme QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BitcoinSupreme.
+
+See doc/build-*.txt for instructions on building bitcoinsupremed,
+the intended-for-services, no-graphical-interface, reference
+implementation of BitcoinSupreme.
